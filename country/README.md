@@ -9,4 +9,4 @@ If the compilation at point 4 fails with errors, try to close the project (File-
 
 ##The steps to run app:
  1.Use “mvn clean install” command in terminal
- 2.java -jar “java -jar <your-project-folder>/ country/country/target/country-0.0.1-SNAPSHOT.jar” 
+ 2.java -jar <your-project-folder>/ country/country/target/country-0.0.1-SNAPSHOT.jar” 
