@@ -3,7 +3,7 @@
 ##Add this project as Maven project
 1. right click on Country main pom.xml inside the sw directory and then click on Add as Maven Project command in the opening popup.
 2.right click on Country main pom.xml i and then click on Maven-->Generate Sources and Update Folder command.
-3.right click on BTS main pom.xml inside the sw directory and then click on Maven-->Reload Project.
+3.right click on Country main pom.xml inside the sw directory and then click on Maven-->Reload Project.
 4.build the project: Build-->Rebuild Project.
 If the compilation at point 4 fails with errors, try to close the project (File-->Close Project), reopen it and repeat the steps starting from the point 2.
 
